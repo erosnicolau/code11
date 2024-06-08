@@ -1,11 +1,11 @@
-function App() {
+import Layout from './Layout'
+import 'styles/globals.css'
+import 'styles/roboto.css'
+
+const App = () => {
   return (
-    <div className="relative overflow-hidden bg-white">
-      <div className="h-screen p-20">
-        <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
-          <div>Everything starts here 👋</div>
-        </div>
-      </div>
+    <div className="relative h-screen overflow-hidden bg-white">
+      <Layout />
     </div>
   )
 }
