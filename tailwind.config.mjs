@@ -28,6 +28,9 @@ export default {
         '4xl': '2.441rem',
         '5xl': '3.052rem',
         h6: '2rem'
+      },
+      lineHeight: {
+        120: '120%'
       }
     }
   },
