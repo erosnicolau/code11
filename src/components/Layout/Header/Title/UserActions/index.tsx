@@ -20,7 +20,7 @@ const UserActions = () => {
             title="Create New"
             className="me-2.5 size-4"
           />
-          Generate Report
+          Generate report
         </button>
       </div>
       <button>

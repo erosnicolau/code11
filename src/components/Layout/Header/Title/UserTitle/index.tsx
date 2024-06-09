@@ -21,11 +21,11 @@ const UserTitle: FC<UserTitleProps> = ({ userName, avatarUrl, updates }) => {
         <img src={avatarUrl} alt={userName} title={userName} className="me-2" />
         <h6 className="text-h6 text-neutral-600">{userName}</h6>
         {updates > 0 ? (
-          <div className="ms-4 flex items-center rounded-full bg-sky-100 px-3 py-2 text-neutral-700">
+          <div className="ms-4 flex h-8 items-center rounded-full bg-sky-100 px-3 py-2 text-neutral-700">
             <img
-              src="src/assets/icons/circle.svg"
+              src="src/assets/icons/blueDot.svg"
               alt="Updates"
-              className="pe-2"
+              className="size-4 pe-2"
             />
             {updates} Updates
           </div>

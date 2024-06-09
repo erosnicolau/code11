@@ -1,7 +1,9 @@
 # CODE11 Front-end Designer Test Project
 
-This test is to showcase my front-end designer skills. It's started off of the [ReactJS Vite Boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-boilerplate), so I'm including the original README here, for installation and usage instructions. 
+This test is to showcase my front-end UI skills. It's started off of the [ReactJS Vite Boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-boilerplate), so I'm including the original README here, for installation and usage instructions.
+
 Enjoy,
+
 *Eros Nicolau*
 
 

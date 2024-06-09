@@ -4,7 +4,7 @@ import 'styles/roboto.css'
 
 const App = () => {
   return (
-    <div className="relative h-screen overflow-hidden bg-white">
+    <div className="relative h-screen overflow-hidden bg-zinc-100">
       <Layout />
     </div>
   )
