@@ -86,7 +86,7 @@ const formFields: FormFieldType[][] = [
   ]
 ]
 
-interface ProfileFormProps {
+type ProfileFormProps = {
   editMode: boolean
   toggleEditMode: () => void
 }

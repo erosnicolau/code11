@@ -1,7 +1,7 @@
 import Profile from './Profile'
 import Sidebar from './Sidebar'
 
-function Content() {
+const Content = () => {
   return (
     <div>
       <div className="mx-auto flex max-w-8xl flex-row items-start justify-between divide-x divide-neutral-300 p-12">

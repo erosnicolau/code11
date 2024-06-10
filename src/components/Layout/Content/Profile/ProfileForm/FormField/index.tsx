@@ -9,7 +9,7 @@ type FormFieldType = {
   bullet?: boolean
 }
 
-interface FormFieldProps {
+type FormFieldProps = {
   field: FormFieldType
   value: string | Date | null | undefined
   onChange: (
